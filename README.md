@@ -38,7 +38,4 @@ This project focuses on the automatic detection of **trend lines**, **support an
 
 ## How to Run the Project
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Alexandro-Biz24/your-repo-name.git
-   cd your-repo-name
+- Click on 'Project_Trend_lines.ipynb'
